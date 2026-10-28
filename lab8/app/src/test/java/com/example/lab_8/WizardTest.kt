@@ -46,4 +46,6 @@ class WizardTest {
 
         assertEquals(70, evilWizard.mana)
     }
+
+
 }
